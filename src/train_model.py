@@ -47,4 +47,4 @@ with open("models/clustering.pkl", "wb") as f:
 with open("models/scaler.pkl", "wb") as f:
     pickle.dump(scaler, f)
 
-print("✅ Models saved successfully!")
+print(" Models saved successfully!")

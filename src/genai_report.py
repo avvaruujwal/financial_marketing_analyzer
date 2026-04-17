@@ -26,10 +26,10 @@ def generate_report(age, income, loan, prediction, segment):
     - Loan Status: {loan}
     - Segment: {segment_type}
 
-    🔍 Prediction:
+     Prediction:
     {decision}
 
-    💡 Marketing Suggestion:
+     Marketing Suggestion:
     Offer personalized financial products and targeted campaigns.
     """
 
