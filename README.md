@@ -32,7 +32,7 @@ This project combines:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 financial_marketing_analyzer/
@@ -141,7 +141,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ---
 
-## 👨 Author
+##  Author
 
 **AVVARU UJWAL **
 
